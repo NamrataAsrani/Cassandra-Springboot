@@ -45,12 +45,12 @@ public class UserController {
 		return ul;
 	}
 	
-/*@PostConstruct
+@PostConstruct
 	public void saveUser() {
 		User user = new User(4, "Mohit", "Pune", 28,Arrays.asList("information-technology","Information-science"));
 		repo.save(user);
 	}
-	*/
+	
 	
 
 }
